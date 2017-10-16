@@ -1,0 +1,6 @@
+[base]
+path=/data/1/wx/wesee-images
+
+[db]
+filename=/data/1/wx/wesee-images/wesee.db
+table=photos
