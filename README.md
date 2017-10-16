@@ -1,2 +1,3 @@
-# wesee
-Share photos between devices
+# We See
+
+Share photos between devices!
