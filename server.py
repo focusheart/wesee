@@ -44,7 +44,7 @@ def close_db(error):
 
 @app.route('/')
 def index():
-    return 'We See!'
+    return render_template('index.html')
 
 
 @app.route('/hi')
